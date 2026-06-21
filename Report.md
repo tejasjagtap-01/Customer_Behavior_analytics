@@ -1,3 +1,4 @@
+
 # Customer Behavior Dashboard - Analytical Findings
 
 This document summarizes the specific data findings extracted directly from the individual visual filter states of the Power BI interactive dashboard screenshots.
@@ -10,6 +11,9 @@ This document summarizes the specific data findings extracted directly from the 
 * **Average Review Rating:** 4 out of 5.
 * **Top Product Category:** Clothing leading with \$104K revenue across 1,737 sales
 * **Top Age Bracket:** Young Adults driving \$62K revenue across 1,028 sales
+
+<img width="1151" height="678" alt="Screenshot 2026-06-21 110612" src="https://github.com/user-attachments/assets/ba24d5ca-c4fc-45de-bc3c-f649157f9ac8" />
+
 
 ---
 
@@ -24,10 +28,12 @@ This document summarizes the specific data findings extracted directly from the 
 
 
 #### B. Active Subscribers (`Subscription_Status` = Yes)
-* **Cohort Size:** 1.053K customers (27% of total)[cite: 1].
-* **Average Order Value:** \$59.49[cite: 1].
-* **Top Product Category:** Clothing (\$27K revenue / 457 sales)[cite: 1].
-* **Top Age Bracket:** Middle-Aged (\$17.0K revenue / 284 sales)[cite: 1].
+* **Cohort Size:** 1.053K customers (27% of total)
+* **Average Order Value:** \$59.49
+* **Top Product Category:** Clothing (\$27K revenue / 457 sales)
+* **Top Age Bracket:** Middle-Aged (\$17.0K revenue / 284 sales)
+
+<img width="1135" height="682" alt="Screenshot 2026-06-21 111805" src="https://github.com/user-attachments/assets/e08321a9-e6c3-4da5-b52a-c23ab73bd52d" />
 
 
 ---
@@ -49,6 +55,7 @@ This document summarizes the specific data findings extracted directly from the 
 * **Top Age Bracket:** Young Adults (\$29K revenue / 479 sales)[cite: 1].
 
 
+<img width="1133" height="662" alt="Screenshot 2026-06-21 111859" src="https://github.com/user-attachments/assets/a96ab8e9-006d-4c29-9758-b992df06ea15" />
 
 
 ---
