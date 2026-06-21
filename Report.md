@@ -69,6 +69,9 @@ This document summarizes the specific data findings extracted directly from the 
 * **Top Category:** Clothing (\$16.9K / 281 sales)
 * **Top Age Bracket:** Young Adults (\$11.2K / 181 sales)
 
+  <img width="1235" height="736" alt="Screenshot 2026-06-22 004809" src="https://github.com/user-attachments/assets/b8f3095c-99d4-436f-bc1f-adf9cadf603f" />
+
+
 ---
 
 #### B. Next Day Air
