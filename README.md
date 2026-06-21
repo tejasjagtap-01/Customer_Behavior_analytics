@@ -1,3 +1,7 @@
+<img width="1228" height="732" alt="zzz" src="https://github.com/user-attachments/assets/75495135-9910-433c-9bdd-c103aa8f4d00" />
+
+---
+
 # Sales Analysis: Full-Stack Data Engineering & Analytics Pipeline
 
 An end-to-end data pipeline transforming 3,900 e-commerce records. This project covers the entire engineering lifecycle: local categorical imputation and feature engineering in Python, automated ETL orchestration via SQLAlchemy to a production PostgreSQL database, complex server-side analytical window functions, and an interactive Power BI executive dashboard.
