@@ -63,25 +63,31 @@ This document summarizes the specific data findings extracted directly from the 
 ### 🚚 Logistics Channels (`shipping_type`)
 
 #### A. 2-Day Shipping
-* **Cohort Size:** 627 customers[cite: 1].
-* **Average Order Value:** \$60.73[cite: 1].
-* **Subscription Mix:** 24.4% Subscribers vs 75.6% Non-Subscribers[cite: 1].
-* **Top Category:** Clothing (\$16.9K / 281 sales)[cite: 1].
-* **Top Age Bracket:** Young Adults (\$11.2K / 181 sales)[cite: 1].
+* **Cohort Size:** 627 customers
+* **Average Order Value:** \$60.73
+* **Subscription Mix:** 24.4% Subscribers vs 75.6% Non-Subscribers
+* **Top Category:** Clothing (\$16.9K / 281 sales)
+* **Top Age Bracket:** Young Adults (\$11.2K / 181 sales)
 
+---
 
 #### B. Next Day Air
-* **Cohort Size:** 648 customers[cite: 1].
-* **Average Order Value:** \$58.63[cite: 1].
-* **Subscription Mix:** 25.93% Subscribers vs 74.07% Non-Subscribers[cite: 1].
-* **Top Category:** Clothing (\$17.2K / 293 sales)[cite: 1].
-* **Top Age Bracket:** Young Adults (\$10.9K / 177 sales)[cite: 1].
+* **Cohort Size:** 648 customers
+* **Average Order Value:** \$58.63
+* **Subscription Mix:** 25.93% Subscribers vs 74.07% Non-Subscribers
+* **Top Category:** Clothing (\$17.2K / 293 sales)
+* **Top Age Bracket:** Young Adults (\$10.9K / 177 sales)
 
+  <img width="1128" height="683" alt="Screenshot 2026-06-21 111931" src="https://github.com/user-attachments/assets/d3b41177-f53c-45d8-a169-738d4162e6de" />
+
+---
 
 #### C. Standard Shipping
-* **Cohort Size:** 654 customers[cite: 1].
-* **Average Order Value:** \$58.46[cite: 1].
-* **Subscription Mix:** 26.76% Subscribers vs 73.24% Non-Subscribers[cite: 1].
-* **Top Category:** Clothing (\$17.8K / 297 sales)[cite: 1].
-* **Top Age Bracket:** Middle-Aged (\$10.5K / 178 sales)[cite: 1].
+* **Cohort Size:** 654 customers
+* **Average Order Value:** \$58.46
+* **Subscription Mix:** 26.76% Subscribers vs 73.24% Non-Subscribers
+* **Top Category:** Clothing (\$17.8K / 297 sales)
+* **Top Age Bracket:** Middle-Aged (\$10.5K / 178 sales)
+
+<img width="1128" height="685" alt="Screenshot 2026-06-21 112001" src="https://github.com/user-attachments/assets/63ffa052-8980-4617-b30b-ca685df07af5" />
 
