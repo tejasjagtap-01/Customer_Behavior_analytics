@@ -1,3 +1,6 @@
+<img width="1228" height="732" alt="zzz" src="https://github.com/user-attachments/assets/a9c02006-2f34-4286-87a3-5434f8fd26fd" />
+
+---
 
 # Customer Behavior Dashboard - Analytical Findings
 
