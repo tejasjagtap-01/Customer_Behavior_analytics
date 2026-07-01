@@ -47,7 +47,7 @@ An end-to-end data pipeline transforming 3,900 e-commerce records. This project 
 
 This end-to-end pipeline and analytical report was developed by **Tejas Jagtap**. 
 
-I am a **Data Engineer & Analytics Specialist** focused on bridging the gap between robust data infrastructure and executive decision-making. I specialize in designing clean ETL architectures, authoring complex server-side analytical data models, and translating tracking metrics into high-impact interactive visual stories.
+I'm trying to getting into **Data Analytics** focused on bridging the gap between robust data infrastructure and executive decision-making. I specialize in designing clean ETL architectures, authoring complex server-side analytical data models, and translating tracking metrics into high-impact interactive visual stories.
 
 * **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
 * **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
